@@ -268,8 +268,4 @@ Attempt to log into Client-1 with one of the accounts (take note of the password
 <br/>
 <br/>
 
-<p>This tutorial was a walkthrough on active directory. We have a domain controller which is our Domain Name Server (DNS). We made a lot of random users as well as the admin which we made to be Jane Doe. 
-</p>
 
-<p> END OF TUTORIAL
-</p>
